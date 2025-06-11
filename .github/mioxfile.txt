@@ -1,21 +1,3 @@
-mioxfile
-! Expires: 15 days
-! [mioxfile - Whitelist]/whitelist
-@@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=la7.it|la7.tv|~sky.it
-@@||assistenza.sky.it^$document
-@@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
-@@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it
-@@||console.cloud.google.com^$document
-@@||didascaleion.it^$document
-@@||esselungaacasa.it^$document
-@@||etsy.com/dac/search2_neu/$stylesheet,domain=etsy.com
-@@||gioxx.org^$document
-@@||goodreads.com^
-@@||google.com/jsapi$script,third-party
-@@||manager.targetcircle.com^$document
-@@||noads.it^$document! [NoAds X Files - ADS non invasivi]
-@@||facciabuco.com^$document
-! [NoAds X Files - Domini radice bloccati]
 ||62b70ac32d4614b.com^
 ||acceptable.a-ads.com^
 ||ad-catgeo.virgilio.it^
